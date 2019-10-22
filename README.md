@@ -18,7 +18,7 @@ git clone https://github.com/anicma/ux-heat-map.git
 And open the `index.html` file with your favourite web browser.
 
 ```sh
-cd apple-home-website-2014
+cd ux-heat-map
 ```
 ### If you have Chrome
 
