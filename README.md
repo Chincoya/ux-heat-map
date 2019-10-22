@@ -13,7 +13,7 @@ You need a Web Browser compatible with FLEXBOX, i.e. Chrome Ver. >= 57, Mozilla 
 ### Install
 
 ```sh
-git clone https://github.com/anicma/ux-heat-map.git
+git clone https://github.com/CHincoya/ux-heat-map.git
 ```
 And open the `index.html` file with your favourite web browser.
 
