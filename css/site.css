@@ -351,3 +351,82 @@ p {
 .book-box {
   display: relative;
 }
+
+.footer-box {
+  width: 100%;
+  position: relative;
+  height: 80vh;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-title-box {
+  height: 20%;
+  width: 100%;
+  align-items: center;
+}
+
+.footer-title {
+  text-align: center;
+  width: inherit;
+  font-size: 2rem;
+}
+
+.footer-list-box {
+  height: 40%;
+  align-items: center;
+}
+
+.footer-list {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.footer-list-item {
+  display: inline-block;
+  font-size: 2.4rem;
+  padding: 1.5rem;
+}
+
+.site-info-box {
+  height: 20%;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+}
+
+.site-info-text {
+  font-size: 1.6rem;
+  width: 30%;
+  text-align: center;
+  margin: 0.5rem 0;
+}
+
+.contact-links-box {
+  height: 20%;
+  width: 100%;
+  justify-content: center;
+}
+
+.contact-links-list {
+  display: inline-flex;
+  width: 40%;
+  padding: 0 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.contact-link {
+  display: inline-block;
+  font-size: 1.6rem;
+  margin: 1rem 2rem;
+}
+
+.footer-img {
+  position: absolute;
+  bottom: 1rem;
+  left: 12%;
+  height: 25%;
+  width: 10%;
+}
