@@ -1,0 +1,25 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+/* Using inheretance */
+html {
+  font-size: 62.5%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  color: #fff;
+  --level-0: #eaeaea;
+  --level-1: #b6b6b6;
+  --level-2: #838383;
+  --level-3: #616161;
+  --level-4: #404040;
+  --level-5: #2e2e2e;
+}
