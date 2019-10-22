@@ -111,3 +111,105 @@ p {
   width: 100%;
 }
 
+.col-pad {
+  padding: 2rem;
+}
+
+.latest-news-box {
+  font-size: 3rem;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 46rem;
+  width: 56rem;
+}
+
+.big-title {
+  font-size: 4.5rem;
+}
+
+.author-name-box {
+  height: 20%;
+}
+
+.art-title-box {
+  height: 70%;
+}
+
+.tags-box {
+  height: 10%;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.art-link {
+  text-transform: uppercase;
+  font-size: 1.6rem;
+  color: black;
+}
+
+.last-news {
+  width: 100%;
+  height: 74.8rem;
+}
+
+.center-title-box {
+  text-align: center;
+  font-size: 3.5rem;
+  position: absolute;
+  width: 33rem;
+  height: 9.6rem;
+  top: 20rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: none;
+  color: #fff;
+}
+
+.first-line {
+  display: block;
+  width: 100%;
+}
+
+.second-line {
+  display: inline;
+}
+
+.centered-xy {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 18rem;
+}
+
+.news {
+  width: 100%;
+  height: 64rem;
+}
+
+.latest-posts {
+  width: 100%;
+  height: 64rem;
+}
+
+[class^="post-"] {
+  padding-left: 2rem;
+}
+
+.post-date {
+  height: 10%;
+}
+
+.post-title {
+  height: 30%;
+}
+
+.post-author {
+  height: 20%;
+}
+
+.post-intro {
+  height: 40%;
+}
